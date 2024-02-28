@@ -1,5 +1,6 @@
-.h1 {
-color: blueviolet;   
+h1 {
+
+color: rgb(0, 0, 0);   
 text-align: left; }
 
 .topnav {
@@ -22,6 +23,19 @@ text-align: left; }
   }
   
   .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
+    background-color: #a30000;
+    color: rgb(0, 0, 0);
+  }
+
+  img {
+    float: right;
+  }
+
+  body {
+    background-image: url('Pluh.PNG');
+    background-size: cover;
+  }
+
+  h2 {
+    text-align: center;
   }
