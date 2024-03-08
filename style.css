@@ -48,11 +48,10 @@ font-size: 50px; }
 
   }
 
-
-  label {
-    font-size: 50px;
+  p {
+    text-align: center;
   }
 
-  .overview {
-    text-align: center;
+  a{
+    color: black;
   }
