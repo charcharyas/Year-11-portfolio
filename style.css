@@ -63,3 +63,8 @@ font-size: 50px; }
   ul {
  text-align: center;
   }
+
+  .turn {
+    scale: 20%;
+    float: right;
+  }
